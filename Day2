@@ -1,0 +1,44 @@
+# Day 2 - Titanic Survival Prediction
+
+## Overview
+This project uses Machine Learning to predict whether a passenger survived the Titanic disaster.
+
+## Dataset
+Titanic Survival Dataset
+
+## Algorithm
+Logistic Regression
+
+## Features Used
+- Pclass
+- Age
+- Fare
+
+## Target Variable
+- Survived
+
+## Tools & Libraries
+- Python
+- Pandas
+- Scikit-learn
+- Google Colab
+
+## Workflow
+1. Load dataset
+2. Handle missing values
+3. Select features
+4. Split data into training and testing sets
+5. Train Logistic Regression model
+6. Evaluate model performance
+7. Predict survival for a new passenger
+
+## Results
+- Accuracy: 73.74%
+- Generated Confusion Matrix for evaluation
+
+## Learning Outcome
+Learned the basics of:
+- Data preprocessing
+- Binary classification
+- Logistic Regression
+- Model evaluation using accuracy and confusion matrix
