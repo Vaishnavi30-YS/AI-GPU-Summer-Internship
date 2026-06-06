@@ -1,0 +1,59 @@
+# Day 2 - Linear Regression Using House Prices Dataset
+
+## Objective
+
+Build a Linear Regression model to predict house sale prices using house features from the Kaggle House Prices dataset.
+
+## Dataset
+
+* Dataset: House Prices - Advanced Regression Techniques
+* Source: Kaggle
+* File Used: train.csv
+
+## Algorithm Used
+
+* Linear Regression
+
+## Feature and Target
+
+### Feature (Input)
+
+* GrLivArea (Above Ground Living Area)
+
+### Target (Output)
+
+* SalePrice
+
+## Workflow
+
+1. Load dataset using Pandas
+2. Select feature and target variables
+3. Split dataset into training and testing sets
+4. Train Linear Regression model
+5. Make predictions on test data
+6. Evaluate model performance using R² Score and Mean Squared Error (MSE)
+7. Predict the price of a new house
+
+## Libraries Used
+
+* Pandas
+* Scikit-learn
+* NumPy
+
+## Evaluation Metrics
+
+* R² Score
+* Mean Squared Error (MSE)
+
+## Concepts Learned
+
+* Supervised Machine Learning
+* Linear Regression
+* Train-Test Split
+* Model Training
+* Prediction
+* Model Evaluation
+
+## Outcome
+
+Successfully trained a Linear Regression model to predict house prices based on living area and evaluated its performance using standard regression metrics.
